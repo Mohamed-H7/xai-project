@@ -1,0 +1,241 @@
+kişi,kaynak,explainer,değer_fonksiyonu,arka_plan,arka_plan_n,taban,öznitelik,phi
+K1,kendi,kendi kesin kodu (2^d numaralandırma),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_1,1.708590066513842
+K1,kendi,kendi kesin kodu (2^d numaralandırma),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,LIMIT_BAL,-0.21126466222913207
+K1,kendi,kendi kesin kodu (2^d numaralandırma),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,BILL_AMT1,0.1501288971753812
+K1,kendi,kendi kesin kodu (2^d numaralandırma),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_2,0.27399019571035377
+K1,kendi,kendi kesin kodu (2^d numaralandırma),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_AMT2,-0.2120817273410092
+K1,kendi,kendi kesin kodu (2^d numaralandırma),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_AMT3,-0.0615887607630149
+K1,kendi,kendi kesin kodu (2^d numaralandırma),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_3,0.27203674029546876
+K1,kendi,kendi kesin kodu (2^d numaralandırma),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_AMT1,0.12126266149527234
+K1,kendi,kendi kesin kodu (2^d numaralandırma),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,BILL_AMT2,0.07967117289518924
+K1,kendi,kendi kesin kodu (2^d numaralandırma),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_4,0.15029715356311094
+K1,kendi,kendi kesin kodu (2^d numaralandırma),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_AMT4,-0.0683877477888623
+K1,kendi,kendi kesin kodu (2^d numaralandırma),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_6,0.20187155709392057
+K1,shap,shap.TreeExplainer(feature_perturbation='interventional'),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_1,1.7085900678733923
+K1,shap,shap.TreeExplainer(feature_perturbation='interventional'),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,LIMIT_BAL,-0.21126467295876408
+K1,shap,shap.TreeExplainer(feature_perturbation='interventional'),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,BILL_AMT1,0.15012890064235307
+K1,shap,shap.TreeExplainer(feature_perturbation='interventional'),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_2,0.273990157811917
+K1,shap,shap.TreeExplainer(feature_perturbation='interventional'),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_AMT2,-0.21208173302677732
+K1,shap,shap.TreeExplainer(feature_perturbation='interventional'),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_AMT3,-0.06158875869226904
+K1,shap,shap.TreeExplainer(feature_perturbation='interventional'),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_3,0.27203677296206297
+K1,shap,shap.TreeExplainer(feature_perturbation='interventional'),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_AMT1,0.12126266242621796
+K1,shap,shap.TreeExplainer(feature_perturbation='interventional'),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,BILL_AMT2,0.07967117435077126
+K1,shap,shap.TreeExplainer(feature_perturbation='interventional'),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_4,0.15029715860897505
+K1,shap,shap.TreeExplainer(feature_perturbation='interventional'),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_AMT4,-0.06838774882232974
+K1,shap,shap.TreeExplainer(feature_perturbation='interventional'),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_6,0.20187155930259906
+K2,kendi,kendi kesin kodu (2^d numaralandırma),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_1,-0.24115509858733097
+K2,kendi,kendi kesin kodu (2^d numaralandırma),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,LIMIT_BAL,0.45448180030662777
+K2,kendi,kendi kesin kodu (2^d numaralandırma),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,BILL_AMT1,-0.0647061558265569
+K2,kendi,kendi kesin kodu (2^d numaralandırma),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_2,-0.030121529185357626
+K2,kendi,kendi kesin kodu (2^d numaralandırma),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_AMT2,-0.03817701671696104
+K2,kendi,kendi kesin kodu (2^d numaralandırma),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_AMT3,0.03303937511698596
+K2,kendi,kendi kesin kodu (2^d numaralandırma),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_3,-0.04707121268184182
+K2,kendi,kendi kesin kodu (2^d numaralandırma),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_AMT1,0.10359721999048901
+K2,kendi,kendi kesin kodu (2^d numaralandırma),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,BILL_AMT2,-0.03569438637793294
+K2,kendi,kendi kesin kodu (2^d numaralandırma),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_4,0.36327038862706795
+K2,kendi,kendi kesin kodu (2^d numaralandırma),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_AMT4,0.10751186315423808
+K2,kendi,kendi kesin kodu (2^d numaralandırma),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_6,-0.01858489086146248
+K2,shap,shap.TreeExplainer(feature_perturbation='interventional'),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_1,-0.24115509821463638
+K2,shap,shap.TreeExplainer(feature_perturbation='interventional'),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,LIMIT_BAL,0.45448183357098604
+K2,shap,shap.TreeExplainer(feature_perturbation='interventional'),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,BILL_AMT1,-0.06470615233120589
+K2,shap,shap.TreeExplainer(feature_perturbation='interventional'),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_2,-0.030121511525732784
+K2,shap,shap.TreeExplainer(feature_perturbation='interventional'),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_AMT2,-0.03817700635521578
+K2,shap,shap.TreeExplainer(feature_perturbation='interventional'),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_AMT3,0.03303937796924038
+K2,shap,shap.TreeExplainer(feature_perturbation='interventional'),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_3,-0.04707121360113524
+K2,shap,shap.TreeExplainer(feature_perturbation='interventional'),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_AMT1,0.10359722091156437
+K2,shap,shap.TreeExplainer(feature_perturbation='interventional'),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,BILL_AMT2,-0.035694385673363284
+K2,shap,shap.TreeExplainer(feature_perturbation='interventional'),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_4,0.3632703634021636
+K2,shap,shap.TreeExplainer(feature_perturbation='interventional'),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_AMT4,0.10751186431017959
+K2,shap,shap.TreeExplainer(feature_perturbation='interventional'),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_6,-0.018584890894446288
+K3,kendi,kendi kesin kodu (2^d numaralandırma),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_1,-0.3224793505783743
+K3,kendi,kendi kesin kodu (2^d numaralandırma),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,LIMIT_BAL,0.017681217697939438
+K3,kendi,kendi kesin kodu (2^d numaralandırma),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,BILL_AMT1,-0.14784731502449205
+K3,kendi,kendi kesin kodu (2^d numaralandırma),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_2,-0.0579488911117047
+K3,kendi,kendi kesin kodu (2^d numaralandırma),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_AMT2,-0.07601681120105543
+K3,kendi,kendi kesin kodu (2^d numaralandırma),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_AMT3,-0.13487530763130073
+K3,kendi,kendi kesin kodu (2^d numaralandırma),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_3,-0.06318618983277655
+K3,kendi,kendi kesin kodu (2^d numaralandırma),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_AMT1,-0.06931617534209725
+K3,kendi,kendi kesin kodu (2^d numaralandırma),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,BILL_AMT2,-0.014728455644804888
+K3,kendi,kendi kesin kodu (2^d numaralandırma),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_4,-0.036187913403683186
+K3,kendi,kendi kesin kodu (2^d numaralandırma),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_AMT4,-0.041919278862371484
+K3,kendi,kendi kesin kodu (2^d numaralandırma),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_6,-0.03263638318080296
+K3,shap,shap.TreeExplainer(feature_perturbation='interventional'),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_1,-0.3224793509117262
+K3,shap,shap.TreeExplainer(feature_perturbation='interventional'),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,LIMIT_BAL,0.017681243203373016
+K3,shap,shap.TreeExplainer(feature_perturbation='interventional'),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,BILL_AMT1,-0.14784731450362415
+K3,shap,shap.TreeExplainer(feature_perturbation='interventional'),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_2,-0.05794887780036515
+K3,shap,shap.TreeExplainer(feature_perturbation='interventional'),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_AMT2,-0.07601679851359404
+K3,shap,shap.TreeExplainer(feature_perturbation='interventional'),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_AMT3,-0.134875312414737
+K3,shap,shap.TreeExplainer(feature_perturbation='interventional'),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_3,-0.06318619098780255
+K3,shap,shap.TreeExplainer(feature_perturbation='interventional'),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_AMT1,-0.06931617538839055
+K3,shap,shap.TreeExplainer(feature_perturbation='interventional'),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,BILL_AMT2,-0.014728458174029584
+K3,shap,shap.TreeExplainer(feature_perturbation='interventional'),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_4,-0.036187913763867985
+K3,shap,shap.TreeExplainer(feature_perturbation='interventional'),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_AMT4,-0.04191927937408946
+K3,shap,shap.TreeExplainer(feature_perturbation='interventional'),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_6,-0.03263638331860784
+rastgele_2366,kendi,kendi kesin kodu (2^d numaralandırma),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_1,1.7055969142305685
+rastgele_2366,kendi,kendi kesin kodu (2^d numaralandırma),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,LIMIT_BAL,0.2875112866737423
+rastgele_2366,kendi,kendi kesin kodu (2^d numaralandırma),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,BILL_AMT1,0.08950455320507548
+rastgele_2366,kendi,kendi kesin kodu (2^d numaralandırma),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_2,0.01504802895411234
+rastgele_2366,kendi,kendi kesin kodu (2^d numaralandırma),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_AMT2,0.07588953385147898
+rastgele_2366,kendi,kendi kesin kodu (2^d numaralandırma),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_AMT3,0.051792811279765726
+rastgele_2366,kendi,kendi kesin kodu (2^d numaralandırma),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_3,0.03851653510704674
+rastgele_2366,kendi,kendi kesin kodu (2^d numaralandırma),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_AMT1,0.07843889639114018
+rastgele_2366,kendi,kendi kesin kodu (2^d numaralandırma),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,BILL_AMT2,-0.03028459933717013
+rastgele_2366,kendi,kendi kesin kodu (2^d numaralandırma),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_4,-0.008283962293341118
+rastgele_2366,kendi,kendi kesin kodu (2^d numaralandırma),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_AMT4,0.007465150850124358
+rastgele_2366,kendi,kendi kesin kodu (2^d numaralandırma),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_6,-0.010653793125261145
+rastgele_2366,shap,shap.TreeExplainer(feature_perturbation='interventional'),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_1,1.7055969138525797
+rastgele_2366,shap,shap.TreeExplainer(feature_perturbation='interventional'),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,LIMIT_BAL,0.2875113316562074
+rastgele_2366,shap,shap.TreeExplainer(feature_perturbation='interventional'),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,BILL_AMT1,0.08950455089400566
+rastgele_2366,shap,shap.TreeExplainer(feature_perturbation='interventional'),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_2,0.015048045081319288
+rastgele_2366,shap,shap.TreeExplainer(feature_perturbation='interventional'),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_AMT2,0.07588955930658631
+rastgele_2366,shap,shap.TreeExplainer(feature_perturbation='interventional'),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_AMT3,0.05179280888516951
+rastgele_2366,shap,shap.TreeExplainer(feature_perturbation='interventional'),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_3,0.038516533918485946
+rastgele_2366,shap,shap.TreeExplainer(feature_perturbation='interventional'),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_AMT1,0.07843889741382032
+rastgele_2366,shap,shap.TreeExplainer(feature_perturbation='interventional'),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,BILL_AMT2,-0.030284598023403306
+rastgele_2366,shap,shap.TreeExplainer(feature_perturbation='interventional'),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_4,-0.008283962227375014
+rastgele_2366,shap,shap.TreeExplainer(feature_perturbation='interventional'),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_AMT4,0.007465150980211547
+rastgele_2366,shap,shap.TreeExplainer(feature_perturbation='interventional'),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_6,-0.010653793156066968
+rastgele_1984,kendi,kendi kesin kodu (2^d numaralandırma),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_1,-0.25046882104783685
+rastgele_1984,kendi,kendi kesin kodu (2^d numaralandırma),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,LIMIT_BAL,0.3616267855639532
+rastgele_1984,kendi,kendi kesin kodu (2^d numaralandırma),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,BILL_AMT1,-0.0676821716318611
+rastgele_1984,kendi,kendi kesin kodu (2^d numaralandırma),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_2,-0.04528166400216687
+rastgele_1984,kendi,kendi kesin kodu (2^d numaralandırma),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_AMT2,0.13928690368922808
+rastgele_1984,kendi,kendi kesin kodu (2^d numaralandırma),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_AMT3,0.096801436976777
+rastgele_1984,kendi,kendi kesin kodu (2^d numaralandırma),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_3,-0.05228869961979124
+rastgele_1984,kendi,kendi kesin kodu (2^d numaralandırma),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_AMT1,0.09834786155519187
+rastgele_1984,kendi,kendi kesin kodu (2^d numaralandırma),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,BILL_AMT2,-0.047678805034243696
+rastgele_1984,kendi,kendi kesin kodu (2^d numaralandırma),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_4,-0.02027736617969837
+rastgele_1984,kendi,kendi kesin kodu (2^d numaralandırma),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_AMT4,0.021440026413781278
+rastgele_1984,kendi,kendi kesin kodu (2^d numaralandırma),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_6,-0.02055986050150905
+rastgele_1984,shap,shap.TreeExplainer(feature_perturbation='interventional'),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_1,-0.25046882077303234
+rastgele_1984,shap,shap.TreeExplainer(feature_perturbation='interventional'),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,LIMIT_BAL,0.3616267869303629
+rastgele_1984,shap,shap.TreeExplainer(feature_perturbation='interventional'),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,BILL_AMT1,-0.06768216394604679
+rastgele_1984,shap,shap.TreeExplainer(feature_perturbation='interventional'),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_2,-0.04528164821152313
+rastgele_1984,shap,shap.TreeExplainer(feature_perturbation='interventional'),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_AMT2,0.13928691712962973
+rastgele_1984,shap,shap.TreeExplainer(feature_perturbation='interventional'),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_AMT3,0.09680143854355629
+rastgele_1984,shap,shap.TreeExplainer(feature_perturbation='interventional'),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_3,-0.05228870059314795
+rastgele_1984,shap,shap.TreeExplainer(feature_perturbation='interventional'),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_AMT1,0.09834786264603462
+rastgele_1984,shap,shap.TreeExplainer(feature_perturbation='interventional'),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,BILL_AMT2,-0.04767880263418556
+rastgele_1984,shap,shap.TreeExplainer(feature_perturbation='interventional'),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_4,-0.020277366748385248
+rastgele_1984,shap,shap.TreeExplainer(feature_perturbation='interventional'),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_AMT4,0.021440026134225264
+rastgele_1984,shap,shap.TreeExplainer(feature_perturbation='interventional'),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_6,-0.020559860502813537
+rastgele_3162,kendi,kendi kesin kodu (2^d numaralandırma),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_1,-0.19026030514922193
+rastgele_3162,kendi,kendi kesin kodu (2^d numaralandırma),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,LIMIT_BAL,-0.001517171598401399
+rastgele_3162,kendi,kendi kesin kodu (2^d numaralandırma),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,BILL_AMT1,0.08274971260207348
+rastgele_3162,kendi,kendi kesin kodu (2^d numaralandırma),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_2,-0.0778869445293742
+rastgele_3162,kendi,kendi kesin kodu (2^d numaralandırma),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_AMT2,0.13639850369493095
+rastgele_3162,kendi,kendi kesin kodu (2^d numaralandırma),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_AMT3,0.17370355691997602
+rastgele_3162,kendi,kendi kesin kodu (2^d numaralandırma),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_3,-0.12999380063569693
+rastgele_3162,kendi,kendi kesin kodu (2^d numaralandırma),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_AMT1,0.1961201456106541
+rastgele_3162,kendi,kendi kesin kodu (2^d numaralandırma),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,BILL_AMT2,-0.036847500252726643
+rastgele_3162,kendi,kendi kesin kodu (2^d numaralandırma),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_4,-0.07536774946970348
+rastgele_3162,kendi,kendi kesin kodu (2^d numaralandırma),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_AMT4,0.02389531992239915
+rastgele_3162,kendi,kendi kesin kodu (2^d numaralandırma),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_6,-0.0406802062166738
+rastgele_3162,shap,shap.TreeExplainer(feature_perturbation='interventional'),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_1,-0.19026030515082676
+rastgele_3162,shap,shap.TreeExplainer(feature_perturbation='interventional'),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,LIMIT_BAL,-0.0015171734990217375
+rastgele_3162,shap,shap.TreeExplainer(feature_perturbation='interventional'),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,BILL_AMT1,0.08274970573310565
+rastgele_3162,shap,shap.TreeExplainer(feature_perturbation='interventional'),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_2,-0.07788693228732882
+rastgele_3162,shap,shap.TreeExplainer(feature_perturbation='interventional'),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_AMT2,0.13639849925079944
+rastgele_3162,shap,shap.TreeExplainer(feature_perturbation='interventional'),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_AMT3,0.17370354977226088
+rastgele_3162,shap,shap.TreeExplainer(feature_perturbation='interventional'),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_3,-0.12999380205274064
+rastgele_3162,shap,shap.TreeExplainer(feature_perturbation='interventional'),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_AMT1,0.19612014659746546
+rastgele_3162,shap,shap.TreeExplainer(feature_perturbation='interventional'),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,BILL_AMT2,-0.03684749831164663
+rastgele_3162,shap,shap.TreeExplainer(feature_perturbation='interventional'),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_4,-0.07536775293345271
+rastgele_3162,shap,shap.TreeExplainer(feature_perturbation='interventional'),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_AMT4,0.023895319988016125
+rastgele_3162,shap,shap.TreeExplainer(feature_perturbation='interventional'),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_6,-0.040680206716737305
+rastgele_3728,kendi,kendi kesin kodu (2^d numaralandırma),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_1,0.22567930522337581
+rastgele_3728,kendi,kendi kesin kodu (2^d numaralandırma),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,LIMIT_BAL,0.3030220653419074
+rastgele_3728,kendi,kendi kesin kodu (2^d numaralandırma),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,BILL_AMT1,-0.08409490911363865
+rastgele_3728,kendi,kendi kesin kodu (2^d numaralandırma),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_2,0.4361913453904586
+rastgele_3728,kendi,kendi kesin kodu (2^d numaralandırma),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_AMT2,-0.010930259151776941
+rastgele_3728,kendi,kendi kesin kodu (2^d numaralandırma),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_AMT3,0.011943812641666364
+rastgele_3728,kendi,kendi kesin kodu (2^d numaralandırma),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_3,-0.012158608984196555
+rastgele_3728,kendi,kendi kesin kodu (2^d numaralandırma),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_AMT1,0.19754302126416762
+rastgele_3728,kendi,kendi kesin kodu (2^d numaralandırma),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,BILL_AMT2,-0.0215490621527312
+rastgele_3728,kendi,kendi kesin kodu (2^d numaralandırma),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_4,-0.001709300557117752
+rastgele_3728,kendi,kendi kesin kodu (2^d numaralandırma),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_AMT4,0.019788463090421197
+rastgele_3728,kendi,kendi kesin kodu (2^d numaralandırma),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_6,-0.02349953304403603
+rastgele_3728,shap,shap.TreeExplainer(feature_perturbation='interventional'),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_1,0.2256793076309532
+rastgele_3728,shap,shap.TreeExplainer(feature_perturbation='interventional'),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,LIMIT_BAL,0.3030220757355801
+rastgele_3728,shap,shap.TreeExplainer(feature_perturbation='interventional'),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,BILL_AMT1,-0.08409490924388274
+rastgele_3728,shap,shap.TreeExplainer(feature_perturbation='interventional'),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_2,0.4361912832087546
+rastgele_3728,shap,shap.TreeExplainer(feature_perturbation='interventional'),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_AMT2,-0.010930248916371055
+rastgele_3728,shap,shap.TreeExplainer(feature_perturbation='interventional'),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_AMT3,0.01194381456121846
+rastgele_3728,shap,shap.TreeExplainer(feature_perturbation='interventional'),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_3,-0.012158610973157919
+rastgele_3728,shap,shap.TreeExplainer(feature_perturbation='interventional'),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_AMT1,0.19754302206158855
+rastgele_3728,shap,shap.TreeExplainer(feature_perturbation='interventional'),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,BILL_AMT2,-0.021549061401296057
+rastgele_3728,shap,shap.TreeExplainer(feature_perturbation='interventional'),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_4,-0.0017093020618158335
+rastgele_3728,shap,shap.TreeExplainer(feature_perturbation='interventional'),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_AMT4,0.019788463196826343
+rastgele_3728,shap,shap.TreeExplainer(feature_perturbation='interventional'),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_6,-0.023499533144138694
+rastgele_3190,kendi,kendi kesin kodu (2^d numaralandırma),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_1,1.5155580799428596
+rastgele_3190,kendi,kendi kesin kodu (2^d numaralandırma),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,LIMIT_BAL,0.1711159445231593
+rastgele_3190,kendi,kendi kesin kodu (2^d numaralandırma),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,BILL_AMT1,-0.005715827095449176
+rastgele_3190,kendi,kendi kesin kodu (2^d numaralandırma),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_2,0.23507463431299053
+rastgele_3190,kendi,kendi kesin kodu (2^d numaralandırma),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_AMT2,0.05779135898618315
+rastgele_3190,kendi,kendi kesin kodu (2^d numaralandırma),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_AMT3,0.07021273401457404
+rastgele_3190,kendi,kendi kesin kodu (2^d numaralandırma),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_3,0.2808742659641015
+rastgele_3190,kendi,kendi kesin kodu (2^d numaralandırma),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_AMT1,-0.06419781129171001
+rastgele_3190,kendi,kendi kesin kodu (2^d numaralandırma),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,BILL_AMT2,-0.004683150210149173
+rastgele_3190,kendi,kendi kesin kodu (2^d numaralandırma),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_4,0.17474795993907632
+rastgele_3190,kendi,kendi kesin kodu (2^d numaralandırma),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_AMT4,0.013208008900442651
+rastgele_3190,kendi,kendi kesin kodu (2^d numaralandırma),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_6,-0.012319044754034031
+rastgele_3190,shap,shap.TreeExplainer(feature_perturbation='interventional'),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_1,1.5155580782205489
+rastgele_3190,shap,shap.TreeExplainer(feature_perturbation='interventional'),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,LIMIT_BAL,0.17111594908937786
+rastgele_3190,shap,shap.TreeExplainer(feature_perturbation='interventional'),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,BILL_AMT1,-0.005715827566933513
+rastgele_3190,shap,shap.TreeExplainer(feature_perturbation='interventional'),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_2,0.23507454856869298
+rastgele_3190,shap,shap.TreeExplainer(feature_perturbation='interventional'),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_AMT2,0.05779135765844512
+rastgele_3190,shap,shap.TreeExplainer(feature_perturbation='interventional'),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_AMT3,0.07021273506515172
+rastgele_3190,shap,shap.TreeExplainer(feature_perturbation='interventional'),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_3,0.2808742758899934
+rastgele_3190,shap,shap.TreeExplainer(feature_perturbation='interventional'),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_AMT1,-0.06419781262038259
+rastgele_3190,shap,shap.TreeExplainer(feature_perturbation='interventional'),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,BILL_AMT2,-0.004683150375778496
+rastgele_3190,shap,shap.TreeExplainer(feature_perturbation='interventional'),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_4,0.17474797934558228
+rastgele_3190,shap,shap.TreeExplainer(feature_perturbation='interventional'),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_AMT4,0.013208008500556388
+rastgele_3190,shap,shap.TreeExplainer(feature_perturbation='interventional'),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_6,-0.012319044786710948
+rastgele_415,kendi,kendi kesin kodu (2^d numaralandırma),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_1,1.6029865219509656
+rastgele_415,kendi,kendi kesin kodu (2^d numaralandırma),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,LIMIT_BAL,0.03239079407894646
+rastgele_415,kendi,kendi kesin kodu (2^d numaralandırma),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,BILL_AMT1,-0.015225630466663725
+rastgele_415,kendi,kendi kesin kodu (2^d numaralandırma),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_2,0.2715740602055355
+rastgele_415,kendi,kendi kesin kodu (2^d numaralandırma),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_AMT2,-0.014294722805422015
+rastgele_415,kendi,kendi kesin kodu (2^d numaralandırma),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_AMT3,-0.0038490744435281756
+rastgele_415,kendi,kendi kesin kodu (2^d numaralandırma),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_3,0.2957937326804626
+rastgele_415,kendi,kendi kesin kodu (2^d numaralandırma),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_AMT1,0.09995434662126115
+rastgele_415,kendi,kendi kesin kodu (2^d numaralandırma),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,BILL_AMT2,-0.02050626278854451
+rastgele_415,kendi,kendi kesin kodu (2^d numaralandırma),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_4,0.17877734790729816
+rastgele_415,kendi,kendi kesin kodu (2^d numaralandırma),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_AMT4,-0.01751214077876155
+rastgele_415,kendi,kendi kesin kodu (2^d numaralandırma),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_6,0.20611783378540247
+rastgele_415,shap,shap.TreeExplainer(feature_perturbation='interventional'),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_1,1.6029865217145816
+rastgele_415,shap,shap.TreeExplainer(feature_perturbation='interventional'),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,LIMIT_BAL,0.03239079874114759
+rastgele_415,shap,shap.TreeExplainer(feature_perturbation='interventional'),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,BILL_AMT1,-0.015225630057493618
+rastgele_415,shap,shap.TreeExplainer(feature_perturbation='interventional'),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_2,0.27157399469193116
+rastgele_415,shap,shap.TreeExplainer(feature_perturbation='interventional'),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_AMT2,-0.014294717904389471
+rastgele_415,shap,shap.TreeExplainer(feature_perturbation='interventional'),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_AMT3,-0.0038490723197292026
+rastgele_415,shap,shap.TreeExplainer(feature_perturbation='interventional'),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_3,0.29579374266309605
+rastgele_415,shap,shap.TreeExplainer(feature_perturbation='interventional'),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_AMT1,0.09995434709987762
+rastgele_415,shap,shap.TreeExplainer(feature_perturbation='interventional'),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,BILL_AMT2,-0.02050626318097784
+rastgele_415,shap,shap.TreeExplainer(feature_perturbation='interventional'),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_4,0.17877736970462194
+rastgele_415,shap,shap.TreeExplainer(feature_perturbation='interventional'),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_AMT4,-0.017512141515051552
+rastgele_415,shap,shap.TreeExplainer(feature_perturbation='interventional'),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_6,0.20611783545093385
+rastgele_2065,kendi,kendi kesin kodu (2^d numaralandırma),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_1,-0.32046620215502264
+rastgele_2065,kendi,kendi kesin kodu (2^d numaralandırma),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,LIMIT_BAL,-0.17255289335183682
+rastgele_2065,kendi,kendi kesin kodu (2^d numaralandırma),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,BILL_AMT1,-0.15833794933266254
+rastgele_2065,kendi,kendi kesin kodu (2^d numaralandırma),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_2,-0.057505099524665
+rastgele_2065,kendi,kendi kesin kodu (2^d numaralandırma),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_AMT2,-0.2017896504062795
+rastgele_2065,kendi,kendi kesin kodu (2^d numaralandırma),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_AMT3,0.08542517921039564
+rastgele_2065,kendi,kendi kesin kodu (2^d numaralandırma),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_3,-0.06574151283288286
+rastgele_2065,kendi,kendi kesin kodu (2^d numaralandırma),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_AMT1,0.003475626385557943
+rastgele_2065,kendi,kendi kesin kodu (2^d numaralandırma),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,BILL_AMT2,-0.050114986594329225
+rastgele_2065,kendi,kendi kesin kodu (2^d numaralandırma),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_4,-0.03560343254116329
+rastgele_2065,kendi,kendi kesin kodu (2^d numaralandırma),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_AMT4,0.09438358615917189
+rastgele_2065,kendi,kendi kesin kodu (2^d numaralandırma),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_6,-0.032115624814487084
+rastgele_2065,shap,shap.TreeExplainer(feature_perturbation='interventional'),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_1,-0.320466202591062
+rastgele_2065,shap,shap.TreeExplainer(feature_perturbation='interventional'),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,LIMIT_BAL,-0.17255291131983358
+rastgele_2065,shap,shap.TreeExplainer(feature_perturbation='interventional'),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,BILL_AMT1,-0.15833794611857957
+rastgele_2065,shap,shap.TreeExplainer(feature_perturbation='interventional'),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_2,-0.05750508924229143
+rastgele_2065,shap,shap.TreeExplainer(feature_perturbation='interventional'),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_AMT2,-0.20178967596018993
+rastgele_2065,shap,shap.TreeExplainer(feature_perturbation='interventional'),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_AMT3,0.08542517946778572
+rastgele_2065,shap,shap.TreeExplainer(feature_perturbation='interventional'),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_3,-0.06574151406529927
+rastgele_2065,shap,shap.TreeExplainer(feature_perturbation='interventional'),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_AMT1,0.0034756263326271436
+rastgele_2065,shap,shap.TreeExplainer(feature_perturbation='interventional'),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,BILL_AMT2,-0.05011498616784411
+rastgele_2065,shap,shap.TreeExplainer(feature_perturbation='interventional'),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_4,-0.03560343327346254
+rastgele_2065,shap,shap.TreeExplainer(feature_perturbation='interventional'),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_AMT4,0.09438358615670131
+rastgele_2065,shap,shap.TreeExplainer(feature_perturbation='interventional'),"müdahaleci: v(S)=ort_b f(x_S, b_S̄)",dev kümesinden rastgele,500,-1.584466649937001,PAY_6,-0.03211562490318101

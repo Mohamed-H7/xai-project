@@ -1,0 +1,6 @@
+aksiyom,test,maks_ihlal,geçti
+verimlilik,Σφ = f(x) − E_B[f],4.440892098500626e-16,True
+kukla,"f, PAY_1'i yok sayacak biçimde sarıldı → φ_PAY_1 = 0",0.0,True
+simetri,simetrik sarmalayıcı (PAY_1↔PAY_2) → φ_i = φ_k,0.0,True
+toplamsallık,ağaçlar 1–410 ve 411–821: φ(f₁+f₂) = φ(f₁)+φ(f₂),4.440892098500626e-16,True
+(ek) doğrusal kapalı form,φ_i = β_i (x_i − ort_B x_i),2.9103830456733704e-11,True

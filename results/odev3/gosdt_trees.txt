@@ -1,0 +1,29 @@
+=== tg-20 ===
+EĞER PAY_1 <= 0.5:
+    → temerrüt olasılığı 0.14
+DEĞİLSE (PAY_1 > 0.5):
+    → temerrüt olasılığı 0.50
+
+=== tg-40 ===
+EĞER PAY_1 <= 0.5:
+    → temerrüt olasılığı 0.14
+DEĞİLSE (PAY_1 > 0.5):
+    → temerrüt olasılığı 0.50
+
+=== tg-80 ===
+EĞER PAY_1 <= 0.5:
+    → temerrüt olasılığı 0.14
+DEĞİLSE (PAY_1 > 0.5):
+    → temerrüt olasılığı 0.50
+
+=== quantile-3 ===
+EĞER PAY_1 <= 0.5:
+    → temerrüt olasılığı 0.14
+DEĞİLSE (PAY_1 > 0.5):
+    → temerrüt olasılığı 0.50
+
+=== quantile-5 ===
+EĞER PAY_1 <= 0.5:
+    → temerrüt olasılığı 0.14
+DEĞİLSE (PAY_1 > 0.5):
+    → temerrüt olasılığı 0.50

@@ -1,0 +1,12 @@
+model,düzey,bölünme,oran
+GOSDT,kök (değişken),PAY_1,1.0
+GOSDT,kök (değişken+eşik),PAY_1 <= 0.5,1.0
+GOSDT,yaprak sayısı,2–2,2.0
+CART,kök (değişken),PAY_1,1.0
+CART,kök (değişken+eşik),PAY_1 <= 1.5,1.0
+CART,1. düzey (değişken),PAY_2,0.98
+CART,1. düzey (değişken),PAY_6,0.46
+CART,1. düzey (değişken),PAY_5,0.4
+CART,1. düzey (değişken),PAY_4,0.14
+CART,1. düzey (değişken),PAY_3,0.02
+CART,yaprak sayısı,9–11,11.0

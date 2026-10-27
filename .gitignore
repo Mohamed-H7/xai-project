@@ -1,0 +1,7 @@
+data/*.xls
+data/*.xlsx
+data/*.csv
+models*/
+results/*_fast/
+__pycache__/
+.venv/

@@ -1,0 +1,16 @@
+kişi,aksiyom,test,ihlal,arka_plan_n,geçti (≤1e-9)
+K1,verimlilik,Σφ = f(x) − E_B[f],4.440892098500626e-16,100,True
+K1,kukla,"f, PAY_1'i yok sayacak biçimde sarıldı → φ_PAY_1 = 0",0.0,100,True
+K1,simetri,simetrik sarmalayıcı (PAY_1↔PAY_2) → φ_i = φ_k,0.0,100,True
+K1,toplamsallık,ağaçlar 1–410 ve 411–821: φ(f₁+f₂) = φ(f₁)+φ(f₂),4.440892098500626e-16,100,True
+K1,(ek) doğrusal kapalı form,φ_i = β_i (x_i − ort_B x_i),1.4551915228366852e-11,100,True
+K2,verimlilik,Σφ = f(x) − E_B[f],2.220446049250313e-16,100,True
+K2,kukla,"f, PAY_1'i yok sayacak biçimde sarıldı → φ_PAY_1 = 0",0.0,100,True
+K2,simetri,simetrik sarmalayıcı (PAY_1↔PAY_2) → φ_i = φ_k,0.0,100,True
+K2,toplamsallık,ağaçlar 1–410 ve 411–821: φ(f₁+f₂) = φ(f₁)+φ(f₂),1.1102230246251565e-16,100,True
+K2,(ek) doğrusal kapalı form,φ_i = β_i (x_i − ort_B x_i),2.9103830456733704e-11,100,True
+K3,verimlilik,Σφ = f(x) − E_B[f],3.3306690738754696e-16,100,True
+K3,kukla,"f, PAY_1'i yok sayacak biçimde sarıldı → φ_PAY_1 = 0",0.0,100,True
+K3,simetri,simetrik sarmalayıcı (PAY_1↔PAY_2) → φ_i = φ_k,0.0,100,True
+K3,toplamsallık,ağaçlar 1–410 ve 411–821: φ(f₁+f₂) = φ(f₁)+φ(f₂),1.6653345369377348e-16,100,True
+K3,(ek) doğrusal kapalı form,φ_i = β_i (x_i − ort_B x_i),7.275957614183426e-12,100,True

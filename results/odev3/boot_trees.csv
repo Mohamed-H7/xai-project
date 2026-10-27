@@ -1,0 +1,101 @@
+boot,model,kök,birinci,yaprak,durum
+0,CART,PAY_1 <= 1.5,"[""PAY_2 <= 1.5"", ""PAY_6 <= 1.0""]",10,
+0,GOSDT,PAY_1 <= 0.5,[],2,CONVERGED
+1,CART,PAY_1 <= 1.5,"[""PAY_2 <= 0.5"", ""PAY_4 <= 1.0""]",11,
+1,GOSDT,PAY_1 <= 0.5,[],2,CONVERGED
+2,CART,PAY_1 <= 1.5,"[""PAY_2 <= 1.5"", ""PAY_4 <= 1.0""]",11,
+2,GOSDT,PAY_1 <= 0.5,[],2,CONVERGED
+3,CART,PAY_1 <= 1.5,"[""PAY_2 <= 1.5"", ""PAY_6 <= 1.0""]",11,
+3,GOSDT,PAY_1 <= 0.5,[],2,CONVERGED
+4,CART,PAY_1 <= 1.5,"[""PAY_2 <= 1.5"", ""PAY_5 <= 1.0""]",10,
+4,GOSDT,PAY_1 <= 0.5,[],2,CONVERGED
+5,CART,PAY_1 <= 1.5,"[""PAY_2 <= 1.5"", ""PAY_5 <= 1.0""]",11,
+5,GOSDT,PAY_1 <= 0.5,[],2,CONVERGED
+6,CART,PAY_1 <= 1.5,"[""PAY_2 <= 1.5"", ""PAY_5 <= 1.0""]",10,
+6,GOSDT,PAY_1 <= 0.5,[],2,CONVERGED
+7,CART,PAY_1 <= 1.5,"[""PAY_2 <= 1.5"", ""PAY_5 <= 1.0""]",11,
+7,GOSDT,PAY_1 <= 0.5,[],2,CONVERGED
+8,CART,PAY_1 <= 1.5,"[""PAY_2 <= 1.5"", ""PAY_4 <= 1.0""]",11,
+8,GOSDT,PAY_1 <= 0.5,[],2,CONVERGED
+9,CART,PAY_1 <= 1.5,"[""PAY_2 <= 1.5"", ""PAY_6 <= 1.0""]",11,
+9,GOSDT,PAY_1 <= 0.5,[],2,CONVERGED
+10,CART,PAY_1 <= 1.5,"[""PAY_2 <= 1.5"", ""PAY_6 <= 1.0""]",11,
+10,GOSDT,PAY_1 <= 0.5,[],2,CONVERGED
+11,CART,PAY_1 <= 1.5,"[""PAY_2 <= 0.5"", ""PAY_5 <= 1.0""]",10,
+11,GOSDT,PAY_1 <= 0.5,[],2,CONVERGED
+12,CART,PAY_1 <= 1.5,"[""PAY_2 <= 0.5"", ""PAY_5 <= 1.0""]",11,
+12,GOSDT,PAY_1 <= 0.5,[],2,CONVERGED
+13,CART,PAY_1 <= 1.5,"[""PAY_2 <= 1.5"", ""PAY_4 <= 1.0""]",11,
+13,GOSDT,PAY_1 <= 0.5,[],2,CONVERGED
+14,CART,PAY_1 <= 1.5,"[""PAY_2 <= 1.5"", ""PAY_6 <= 1.0""]",10,
+14,GOSDT,PAY_1 <= 0.5,[],2,CONVERGED
+15,CART,PAY_1 <= 1.5,"[""PAY_2 <= 1.5"", ""PAY_6 <= 1.0""]",11,
+15,GOSDT,PAY_1 <= 0.5,[],2,CONVERGED
+16,CART,PAY_1 <= 1.5,"[""PAY_2 <= 1.5"", ""PAY_6 <= 1.0""]",11,
+16,GOSDT,PAY_1 <= 0.5,[],2,CONVERGED
+17,CART,PAY_1 <= 1.5,"[""PAY_2 <= 1.5"", ""PAY_5 <= 1.0""]",10,
+17,GOSDT,PAY_1 <= 0.5,[],2,CONVERGED
+18,CART,PAY_1 <= 1.5,"[""PAY_2 <= 1.5"", ""PAY_6 <= 1.0""]",10,
+18,GOSDT,PAY_1 <= 0.5,[],2,CONVERGED
+19,CART,PAY_1 <= 1.5,"[""PAY_2 <= 1.5"", ""PAY_5 <= 1.0""]",10,
+19,GOSDT,PAY_1 <= 0.5,[],2,CONVERGED
+20,CART,PAY_1 <= 1.5,"[""PAY_2 <= 1.5"", ""PAY_4 <= 1.0""]",11,
+20,GOSDT,PAY_1 <= 0.5,[],2,CONVERGED
+21,CART,PAY_1 <= 1.5,"[""PAY_2 <= 1.5"", ""PAY_5 <= 1.0""]",11,
+21,GOSDT,PAY_1 <= 0.5,[],2,CONVERGED
+22,CART,PAY_1 <= 1.5,"[""PAY_3 <= 1.5"", ""PAY_4 <= 1.0""]",11,
+22,GOSDT,PAY_1 <= 0.5,[],2,CONVERGED
+23,CART,PAY_1 <= 1.5,"[""PAY_2 <= 1.5"", ""PAY_6 <= 1.0""]",9,
+23,GOSDT,PAY_1 <= 0.5,[],2,CONVERGED
+24,CART,PAY_1 <= 1.5,"[""PAY_2 <= 1.5"", ""PAY_5 <= 1.0""]",10,
+24,GOSDT,PAY_1 <= 0.5,[],2,CONVERGED
+25,CART,PAY_1 <= 1.5,"[""PAY_2 <= 0.5"", ""PAY_5 <= 1.0""]",11,
+25,GOSDT,PAY_1 <= 0.5,[],2,CONVERGED
+26,CART,PAY_1 <= 1.5,"[""PAY_2 <= 1.5"", ""PAY_6 <= 1.0""]",10,
+26,GOSDT,PAY_1 <= 0.5,[],2,CONVERGED
+27,CART,PAY_1 <= 1.5,"[""PAY_2 <= 0.5"", ""PAY_6 <= 1.0""]",10,
+27,GOSDT,PAY_1 <= 0.5,[],2,CONVERGED
+28,CART,PAY_1 <= 1.5,"[""PAY_2 <= 0.5"", ""PAY_6 <= 1.0""]",10,
+28,GOSDT,PAY_1 <= 0.5,[],2,CONVERGED
+29,CART,PAY_1 <= 1.5,"[""PAY_2 <= 1.5"", ""PAY_6 <= 1.0""]",11,
+29,GOSDT,PAY_1 <= 0.5,[],2,CONVERGED
+30,CART,PAY_1 <= 1.5,"[""PAY_2 <= 1.5"", ""PAY_6 <= 1.0""]",10,
+30,GOSDT,PAY_1 <= 0.5,[],2,CONVERGED
+31,CART,PAY_1 <= 1.5,"[""PAY_2 <= 0.5"", ""PAY_6 <= 1.0""]",11,
+31,GOSDT,PAY_1 <= 0.5,[],2,CONVERGED
+32,CART,PAY_1 <= 1.5,"[""PAY_2 <= 1.5"", ""PAY_6 <= 1.0""]",11,
+32,GOSDT,PAY_1 <= 0.5,[],2,CONVERGED
+33,CART,PAY_1 <= 1.5,"[""PAY_2 <= 0.5"", ""PAY_4 <= 1.0""]",11,
+33,GOSDT,PAY_1 <= 0.5,[],2,CONVERGED
+34,CART,PAY_1 <= 1.5,"[""PAY_2 <= 1.5"", ""PAY_6 <= 1.0""]",11,
+34,GOSDT,PAY_1 <= 0.5,[],2,CONVERGED
+35,CART,PAY_1 <= 1.5,"[""PAY_2 <= 1.5"", ""PAY_5 <= 1.0""]",10,
+35,GOSDT,PAY_1 <= 0.5,[],2,CONVERGED
+36,CART,PAY_1 <= 1.5,"[""PAY_2 <= 1.5"", ""PAY_6 <= 1.0""]",10,
+36,GOSDT,PAY_1 <= 0.5,[],2,CONVERGED
+37,CART,PAY_1 <= 1.5,"[""PAY_2 <= 1.5"", ""PAY_5 <= 1.0""]",11,
+37,GOSDT,PAY_1 <= 0.5,[],2,CONVERGED
+38,CART,PAY_1 <= 1.5,"[""PAY_2 <= 0.5"", ""PAY_5 <= 1.0""]",10,
+38,GOSDT,PAY_1 <= 0.5,[],2,CONVERGED
+39,CART,PAY_1 <= 1.5,"[""PAY_2 <= 0.5"", ""PAY_6 <= 1.0""]",10,
+39,GOSDT,PAY_1 <= 0.5,[],2,CONVERGED
+40,CART,PAY_1 <= 1.5,"[""PAY_2 <= 1.5"", ""PAY_6 <= 1.0""]",11,
+40,GOSDT,PAY_1 <= 0.5,[],2,CONVERGED
+41,CART,PAY_1 <= 1.5,"[""PAY_2 <= 1.5"", ""PAY_5 <= 1.0""]",11,
+41,GOSDT,PAY_1 <= 0.5,[],2,CONVERGED
+42,CART,PAY_1 <= 1.5,"[""PAY_2 <= 1.5"", ""PAY_5 <= 1.0""]",10,
+42,GOSDT,PAY_1 <= 0.5,[],2,CONVERGED
+43,CART,PAY_1 <= 1.5,"[""PAY_2 <= 1.5"", ""PAY_6 <= 1.0""]",11,
+43,GOSDT,PAY_1 <= 0.5,[],2,CONVERGED
+44,CART,PAY_1 <= 1.5,"[""PAY_2 <= 1.5"", ""PAY_6 <= 1.0""]",10,
+44,GOSDT,PAY_1 <= 0.5,[],2,CONVERGED
+45,CART,PAY_1 <= 1.5,"[""PAY_2 <= 1.5"", ""PAY_6 <= 1.0""]",10,
+45,GOSDT,PAY_1 <= 0.5,[],2,CONVERGED
+46,CART,PAY_1 <= 1.5,"[""PAY_2 <= 1.5"", ""PAY_5 <= 1.0""]",10,
+46,GOSDT,PAY_1 <= 0.5,[],2,CONVERGED
+47,CART,PAY_1 <= 1.5,"[""PAY_2 <= 1.5"", ""PAY_5 <= 1.0""]",11,
+47,GOSDT,PAY_1 <= 0.5,[],2,CONVERGED
+48,CART,PAY_1 <= 1.5,"[""PAY_2 <= 1.5"", ""PAY_5 <= 1.0""]",11,
+48,GOSDT,PAY_1 <= 0.5,[],2,CONVERGED
+49,CART,PAY_1 <= 1.5,"[""PAY_2 <= 1.5"", ""PAY_5 <= 1.0""]",11,
+49,GOSDT,PAY_1 <= 0.5,[],2,CONVERGED

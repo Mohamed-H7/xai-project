@@ -1,0 +1,92 @@
+{
+  "pi": {
+    "base_auc_eğitim": 0.8246177015359558,
+    "base_auc_test": 0.7787701511561471,
+    "spearman_sıra": 0.7558441558441559,
+    "tekrar": 30,
+    "toplam_önem_eğitim": 0.2239943062946846,
+    "toplam_önem_test": 0.14805246007773087
+  },
+  "blok_eşiği": 0.374,
+  "ale_pdp_korelasyon": {
+    "spearman_tümü": 0.8272727272727272,
+    "spearman_etkili": 0.8382352941176471,
+    "n_etkili": 16
+  },
+  "vekil": {
+    "seçilen_derinlik": 4,
+    "sapma_nicelikleri": {
+      "p01": -0.13929039240895902,
+      "p05": -0.08531770698588116,
+      "p25": -0.044490707060160985,
+      "p50": -0.006363210943152162,
+      "p75": 0.034950987301800386,
+      "p95": 0.11126354916986624,
+      "p99": 0.19159463899345833
+    },
+    "ort_|sapma|": 0.04878734085734978,
+    "cv_R2": 0.09008874805539313,
+    "null_ort": -0.009923116297537693,
+    "null_p95": -0.005097430997880753,
+    "p_değeri": 0.004975124378109453,
+    "en_kötü_yaprak_kuralı": "LIMIT_BAL ≤ 25000.0 VE BILL_AMT1 ≤ 16524.5 VE PAY_AMT4 ≤ 352.0",
+    "en_kötü_yaprak_n": 140,
+    "en_kötü_yaprak_ort_|r|": 0.10412314310105006,
+    "genel_ort_|r|": 0.04878734085734978,
+    "|sapma|_vs_olasılık_spearman": 0.04757064182933516,
+    "önem_vekil": {
+      "LIMIT_BAL": 0.004099751335026176,
+      "EDUCATION": 0.0,
+      "AGE": 0.0,
+      "PAY_1": 0.7376445352375213,
+      "PAY_2": 0.15956613431247071,
+      "PAY_3": 0.0012611155209304818,
+      "PAY_4": 0.0,
+      "PAY_5": 0.03198890823859966,
+      "PAY_6": 0.006224199111349136,
+      "BILL_AMT1": 0.013656108229622717,
+      "BILL_AMT2": 0.0,
+      "BILL_AMT3": 0.0,
+      "BILL_AMT4": 0.0,
+      "BILL_AMT5": 0.0,
+      "BILL_AMT6": 0.0,
+      "PAY_AMT1": 0.0,
+      "PAY_AMT2": 0.0,
+      "PAY_AMT3": 0.04555924801447987,
+      "PAY_AMT4": 0.0,
+      "PAY_AMT5": 0.0,
+      "PAY_AMT6": 0.0
+    }
+  },
+  "ilk3": {
+    "PI_eğitim": [
+      "PAY_1",
+      "LIMIT_BAL",
+      "BILL_AMT1"
+    ],
+    "PI_test": [
+      "PAY_1",
+      "LIMIT_BAL",
+      "BILL_AMT1"
+    ],
+    "PDP_sd": [
+      "PAY_1",
+      "LIMIT_BAL",
+      "PAY_2"
+    ],
+    "ALE_sd": [
+      "PAY_1",
+      "LIMIT_BAL",
+      "BILL_AMT1"
+    ],
+    "vekil_ağaç": [
+      "PAY_1",
+      "PAY_2",
+      "PAY_AMT3"
+    ]
+  },
+  "odev3_tutarlılık": {
+    "spearman(LASSO_kararsızlık, yöntemler_arası_sıra_sd)": NaN,
+    "spearman(EBM_göreli_belirsizlik, yöntemler_arası_sıra_sd)": 0.5838756562200611
+  }
+}

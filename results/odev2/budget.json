@@ -1,0 +1,48 @@
+[
+  {
+    "model": "LightGBM",
+    "n_trials": 60,
+    "inner_folds": 3,
+    "n_fits": 180,
+    "wall_sec": 167.8,
+    "best_inner_auc": 0.7855197276052265,
+    "best_params": {
+      "n_estimators": 821,
+      "learning_rate": 0.006592255681939527,
+      "num_leaves": 24,
+      "min_child_samples": 29,
+      "subsample": 0.5717389794932046,
+      "colsample_bytree": 0.8441981807330311,
+      "reg_lambda": 12.710978470756881
+    }
+  },
+  {
+    "model": "EBM",
+    "n_trials": 30,
+    "inner_folds": 3,
+    "n_fits": 90,
+    "wall_sec": 492.1,
+    "best_inner_auc": 0.7835592376245314,
+    "best_params": {
+      "learning_rate": 0.05615387721470385,
+      "max_bins": 32,
+      "min_samples_leaf": 3,
+      "max_leaves": 2,
+      "interactions": 5,
+      "smoothing_rounds": 75
+    }
+  },
+  {
+    "model": "LASSO",
+    "n_trials": 30,
+    "inner_folds": 3,
+    "n_fits": 90,
+    "wall_sec": 27.1,
+    "best_inner_auc": 0.7740596127827128,
+    "best_params": {
+      "C": 9.652502175334561,
+      "pay_encoding": "split",
+      "log_amounts": true
+    }
+  }
+]

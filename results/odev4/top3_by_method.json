@@ -1,0 +1,27 @@
+{
+  "PI_eğitim": [
+    "PAY_1",
+    "LIMIT_BAL",
+    "BILL_AMT1"
+  ],
+  "PI_test": [
+    "PAY_1",
+    "LIMIT_BAL",
+    "BILL_AMT1"
+  ],
+  "PDP_sd": [
+    "PAY_1",
+    "LIMIT_BAL",
+    "PAY_2"
+  ],
+  "ALE_sd": [
+    "PAY_1",
+    "LIMIT_BAL",
+    "BILL_AMT1"
+  ],
+  "vekil_ağaç": [
+    "PAY_1",
+    "PAY_2",
+    "PAY_AMT3"
+  ]
+}

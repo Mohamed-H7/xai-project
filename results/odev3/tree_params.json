@@ -1,0 +1,10 @@
+{
+  "CART": {
+    "max_depth": 4,
+    "min_samples_leaf": 500
+  },
+  "GOSDT": {
+    "regularization": 0.005,
+    "balance": true
+  }
+}

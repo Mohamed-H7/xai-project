@@ -1,0 +1,97 @@
+{
+  "kurulum": {
+    "seçilen_öznitelikler": [
+      "PAY_1",
+      "LIMIT_BAL",
+      "BILL_AMT1",
+      "PAY_2",
+      "PAY_AMT2",
+      "PAY_AMT3",
+      "PAY_3",
+      "PAY_AMT1",
+      "BILL_AMT2",
+      "PAY_4",
+      "PAY_AMT4",
+      "PAY_6"
+    ],
+    "seçim_kaynağı": "Ödev 4 test permütasyon önemi",
+    "sabit_öznitelikler": {
+      "EDUCATION": 1.8425,
+      "AGE": 35.432625,
+      "PAY_5": -0.2703333333333333,
+      "BILL_AMT3": 46861.88008333333,
+      "BILL_AMT4": 43156.661458333336,
+      "BILL_AMT5": 40164.412625,
+      "BILL_AMT6": 38675.979875,
+      "PAY_AMT5": 4769.94175,
+      "PAY_AMT6": 5229.9055
+    },
+    "sabit_değer": "dev kümesi ortalaması",
+    "açıklanan_çıktı": "log-odds (LightGBM ham skor)",
+    "ret_eşiği_olasılık": 0.26983638518111913,
+    "ağaç_sayısı": 821,
+    "koalisyon_sayısı": 4096
+  },
+  "aksiyomlar": [
+    {
+      "aksiyom": "verimlilik",
+      "test": "Σφ = f(x) − E_B[f]",
+      "maks_ihlal": 4.440892098500626e-16,
+      "geçti": true
+    },
+    {
+      "aksiyom": "kukla",
+      "test": "f, PAY_1'i yok sayacak biçimde sarıldı → φ_PAY_1 = 0",
+      "maks_ihlal": 0.0,
+      "geçti": true
+    },
+    {
+      "aksiyom": "simetri",
+      "test": "simetrik sarmalayıcı (PAY_1↔PAY_2) → φ_i = φ_k",
+      "maks_ihlal": 0.0,
+      "geçti": true
+    },
+    {
+      "aksiyom": "toplamsallık",
+      "test": "ağaçlar 1–410 ve 411–821: φ(f₁+f₂) = φ(f₁)+φ(f₂)",
+      "maks_ihlal": 4.440892098500626e-16,
+      "geçti": true
+    },
+    {
+      "aksiyom": "(ek) doğrusal kapalı form",
+      "test": "φ_i = β_i (x_i − ort_B x_i)",
+      "maks_ihlal": 2.9103830456733704e-11,
+      "geçti": true
+    }
+  ],
+  "kendi_vs_shap": {
+    "arka_plan_n": 500,
+    "açıklanan_kişi": 10,
+    "maks_|Δφ|": 8.574429755103807e-08,
+    "maks_|Δtaban|": 0.0,
+    "en_büyük_fark_kişi": "rastgele_3190",
+    "en_büyük_fark_öznitelik": "PAY_2",
+    "maks_kendi_verimlilik_hatası": 5.551115123125783e-16,
+    "maks_shap_verimlilik_hatası": 8.279425811608121e-08,
+    "süre_kendi_sn": 160.51,
+    "süre_shap_sn": 1.2
+  },
+  "arka_plan_boyutu": {
+    "referans_explainer": "shap.TreeExplainer(interventional) — Adım 2'de kendi kodla eşitliği doğrulandı",
+    "referans_süre_sn": 19.5
+  },
+  "treeshap": {
+    "explainer_müdahaleci": "shap.TreeExplainer(interventional)",
+    "değer_fonksiyonu_müdahaleci": "müdahaleci: v(S)=ort_b f(x_S, b_S̄)",
+    "arka_plan_n_müdahaleci": 500,
+    "taban_müdahaleci": -1.654202924815559,
+    "explainer_yol": "shap.TreeExplainer(tree_path_dependent)",
+    "değer_fonksiyonu_yol": "yol bağımlı: v(S)=E[f | x_S] ağaç örtüsüyle",
+    "arka_plan_yol": "yok (eğitim verisinin ağaç örtüsü)",
+    "taban_yol": -1.5410853564103946,
+    "açıklanan_n": 1000,
+    "sabit_özniteliklere_atanan_pay_yol": 0.12545567640287938,
+    "sabit_özniteliklere_atanan_pay_müdahaleci": 0.0,
+    "spearman(R2_diğerleri, göreli_fark)": 0.20979020979020982
+  }
+}
