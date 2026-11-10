@@ -1,0 +1,10 @@
+ölçüt,dolgu_A,dolgu_B,tau,tau_yalnız_yöntemler,tau_önyükleme_ort,tau_önyükleme_sd,sıra_A,sıra_B
+MoRF_alanı,ortalama,rastgele,0.8666666666666666,0.6666666666666669,0.92,0.06548364072560463,SHAP-yol > SHAP-müd > LIME > Örtme > Ort-uzaklık > Rastgele,SHAP-müd > SHAP-yol > LIME > Örtme > Ort-uzaklık > Rastgele
+MoRF_alanı,ortalama,yakın-komşu,0.4666666666666666,0.0,0.44266666666666665,0.07532990905485873,SHAP-yol > SHAP-müd > LIME > Örtme > Ort-uzaklık > Rastgele,Örtme > SHAP-yol > SHAP-müd > LIME > Rastgele > Ort-uzaklık
+MoRF_alanı,rastgele,yakın-komşu,0.3333333333333333,-0.3333333333333334,0.39466666666666667,0.07889804997098405,SHAP-müd > SHAP-yol > LIME > Örtme > Ort-uzaklık > Rastgele,Örtme > SHAP-yol > SHAP-müd > LIME > Rastgele > Ort-uzaklık
+PGI@3,ortalama,rastgele,0.7333333333333333,0.3333333333333334,0.7966666666666665,0.1546957172509635,LIME > Örtme > SHAP-müd > SHAP-yol > Ort-uzaklık > Rastgele,Örtme > SHAP-müd > LIME > SHAP-yol > Ort-uzaklık > Rastgele
+PGI@3,ortalama,yakın-komşu,0.6,0.0,0.5559999999999999,0.17688160497223682,LIME > Örtme > SHAP-müd > SHAP-yol > Ort-uzaklık > Rastgele,Örtme > SHAP-yol > LIME > SHAP-müd > Ort-uzaklık > Rastgele
+PGI@3,rastgele,yakın-komşu,0.6,0.0,0.7006666666666664,0.1411431355089017,Örtme > SHAP-müd > LIME > SHAP-yol > Ort-uzaklık > Rastgele,Örtme > SHAP-yol > LIME > SHAP-müd > Ort-uzaklık > Rastgele
+MoRF↔PGI@3,ortalama,ortalama,0.3333333333333333,-0.6666666666666669,,,SHAP-yol > SHAP-müd > LIME > Örtme > Ort-uzaklık > Rastgele,LIME > Örtme > SHAP-müd > SHAP-yol > Ort-uzaklık > Rastgele
+MoRF↔PGI@3,rastgele,rastgele,0.4666666666666666,-0.3333333333333334,,,SHAP-müd > SHAP-yol > LIME > Örtme > Ort-uzaklık > Rastgele,Örtme > SHAP-müd > LIME > SHAP-yol > Ort-uzaklık > Rastgele
+MoRF↔PGI@3,yakın-komşu,yakın-komşu,0.7333333333333333,0.6666666666666669,,,Örtme > SHAP-yol > SHAP-müd > LIME > Rastgele > Ort-uzaklık,Örtme > SHAP-yol > LIME > SHAP-müd > Ort-uzaklık > Rastgele

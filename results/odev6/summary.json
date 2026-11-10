@@ -1,0 +1,32 @@
+{
+  "kurulum": {
+    "yöntemler": [
+      "SHAP-müd",
+      "SHAP-yol",
+      "LIME",
+      "Örtme"
+    ],
+    "kontroller": [
+      "Rastgele",
+      "Ort-uzaklık"
+    ],
+    "arka_plan_n": 200,
+    "açıklanan_n": 200,
+    "alt_küme_n": 100,
+    "lime_örnek": 5000,
+    "dolgu_tekrar_R": 10,
+    "rastgele_sıra_tekrar": 10,
+    "rastgeleleştirme_tohumu": 3,
+    "kararlılık_pertürbasyon_M": 5,
+    "ret_eşiği": 0.3266941926694316,
+    "çıktı": "log-odds",
+    "AUC_holdout": 0.7787701511561471
+  },
+  "en_çok_uyuşmayan": [
+    "LIME",
+    "Örtme",
+    0.7676688311688312
+  ],
+  "toplamsal_model_AUC": 0.7584053625575324,
+  "LIME_tohum_tohum_spearman": 0.7694935064935065
+}

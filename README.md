@@ -25,6 +25,9 @@ odev4_global.py     Ödev 4: küresel açıklama yöntemlerinin karşılaştırm
 src/shapley.py      kesin müdahaleci Shapley (kütüphanesiz, 2^d numaralandırma) + aksiyom testleri
 odev5_shapley.py    Ödev 5: Shapley değerleri, arka plan seçimi, TreeSHAP türleri
 odev5_figures.py    Ödev 5 rapor şekilleri (yalnızca results/odev5 CSV'lerinden)
+src/explainers.py   Ödev 6: SHAP-müd/yol, LIME (kendi uygulamamız), Örtme, kontroller, uyuşma ölçütleri,
+                    yaprak rastgeleleştirici, bölünme eşiği geçişi
+odev6_evaluate.py   Ödev 6: açıklamaların değerlendirilmesi (akıl sağlığı, sadakat, kararlılık, uyuşma)
 results/odev2/      tablolar (csv/json) ve şekiller
 models/             eğitilmiş modeller (Ödev 3–5 bunları kullanır)
 ```
@@ -72,3 +75,22 @@ python odev5_figures.py           # rapor şekilleri → results/odev5/report_fi
 Açıklanan çıktı log-odds'tur. Her φ tablosunda explainer, değer fonksiyonu, arka plan, arka plan
 boyutu ve taban sütunları vardır. Çıktılar: `axiom_tests.csv`, `own_vs_shap.csv`, `background_size*.csv`,
 `reference_groups*.csv`, `treeshap_*.csv`, `persons.csv`, `summary.json` ve `figures/`.
+
+## Ödev 6
+Ödev 2'deki LightGBM'i (`models/odev2_LightGBM.joblib`) ve ayarlarını (`results/odev2/budget.json`) kullanır.
+Dört yöntem: SHAP-müd (müdahaleci TreeSHAP), SHAP-yol (yol-bağımlı TreeSHAP), LIME (kendi uygulamamız,
+ek paket gerekmez) ve Örtme (tek öznitelik silme). İki kontrol: Rastgele açıklama ve Ort-uzaklık
+(modelden bağımsız, ortalamadan z-uzaklığı). SHAP-müd, LIME ve Örtme aynı arka planı (dev'den 200 satır) kullanır.
+```bash
+python odev6_evaluate.py --fast   # duman testi (results/odev6_fast), ~1 dk
+python odev6_evaluate.py          # tam deney (results/odev6)
+```
+| Eksen | Test | Çıktı |
+|---|---|---|
+| Akıl sağlığı | kademeli yaprak rastgeleleştirme (%25/50/75/100, 3 tohum), karıştırılmış etiketle yeniden eğitim (3 tohum) | `sanity.csv`, `sanity_auc.csv` |
+| Sadakat | en önemli k özniteliği dolguyla değiştirme; 3 dolgu (ortalama, rastgele, yakın-komşu), MoRF alanı ve PGI@3; Kendall τ | `fidelity_*.csv` |
+| Kararlılık | kararı değiştirmeyen gürültü (ε = 0.01, 0.05 sd); açıklama değişimi + tahmin değişimi + geçilen bölünme eşiği | `stability_*.csv` |
+| Uyuşma | ilk-1, ilk-3, Spearman, işaret uyumu; en çok uyuşmayan çift için E1–E3 deneyleri | `agreement.csv`, `experiments.csv` |
+| Özet | dört eksen, yöntem başına | `summary_table.csv`, `summary.json` |
+
+Şekiller `results/odev6/figures/`; özgün açıklamalar `phi_original.npz`. Tüm tohumlar `SEED = 42`'den türetilir.
